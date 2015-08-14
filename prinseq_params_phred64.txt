@@ -1,0 +1,15 @@
+-out_format 3
+-no_qual_header
+-rm_header
+-trim_tail_left 5
+-trim_tail_right 5
+-trim_ns_left 1
+-trim_ns_right 1
+-trim_qual_left 20
+-trim_qual_right 20
+-trim_qual_type mean
+-trim_qual_rule lt
+-trim_qual_window 5
+-trim_qual_step 1
+-min_len 13
+-phred64
